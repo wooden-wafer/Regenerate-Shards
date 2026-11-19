@@ -1,9 +1,0 @@
-{
-  "name": "Regenerate_Shards",
-  "version_number": "1.0.0",
-  "website_url": "https://www.nexusmods.com/hollowknightsilksong/mods/604",
-  "description": "A mod that promotes exploration over grinding rosaries for shell shards by regenerating them.",
-  "dependencies": [
-    "BepInEx-BepInExPack_Silksong-5.4.2304"
-  ]
-}
